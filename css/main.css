@@ -73,6 +73,7 @@ float:left;
   margin: 4em 0;
   padding: 1em;
   position: relative;
+  padding-top:60px;
  }
  .about--title{
   color:#F97300;
@@ -107,7 +108,8 @@ float:left;
  /*Portfolio*/
 .portfolio{
   margin: 4em 0;
-     position: relative; 
+  position: relative; 
+  padding-top:10px;
  }
  .portfolio h1{
   color:#F97300;
@@ -122,6 +124,7 @@ float:left;
   .blog{
     margin: 4em 0;
     position: relative; 
+    padding-top:10px;
    }
    .blog h1{
     color:#F97300;
@@ -145,6 +148,7 @@ float:left;
    .contact-form{
     margin: 6em 0;
     position: relative;  
+    padding-top:20px;
    }
    .contact-form h1{
     padding:2em 1px;
